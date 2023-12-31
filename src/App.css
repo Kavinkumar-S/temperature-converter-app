@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  
+height: 80vh;
+width: 100%;
+max-width: 1140px;
+margin: 10px auto;
+
+}
+.temperature-container{
+  display: flex;
+ 
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  
+}
+.temperature-outer-container{
+  border: 1px solid red;
+
+}
+.border-line{
+  border-right: 1px solid red;
+  margin:0px 25px;
+  height: 100%;
+} 
+
